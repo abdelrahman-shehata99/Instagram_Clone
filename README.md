@@ -1,10 +1,8 @@
 
-# My Flutter Projects
+# Instagram Clone
 Flutter apps with cool design and animations
-
-
 ___
-## 9 - Instagram Redesign App
+Instagram Redesign App
 Flutter UI + Animations + Slivers + Simple Bloc
  | Home Page | Dark Mode |
  |-----------|-----------|
