@@ -1,6 +1,8 @@
 
 # Instagram Clone
-Flutter apps with cool design and animations
+This is a redesign app for instagram
+focused on ui ux
+
 ___
 Instagram Redesign App
 Flutter UI + Animations + Slivers + Simple Bloc
