@@ -2,7 +2,8 @@
 # Instagram Clone
 This is a redesign app for instagram
 focused on ui ux
-
+it comes with dark mode theme as well
+hope you like it
 ___
 Instagram Redesign App
 Flutter UI + Animations + Slivers + Simple Bloc
